@@ -1,1 +1,2 @@
-print("ll")
+print("ll") 
+k=2
